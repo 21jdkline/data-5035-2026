@@ -128,3 +128,6 @@ SELECT
 FROM test_extreme_amount
 
 ORDER BY test_name, input_value;
+<<<<<<< local
+=======
+>>>>>>> remote
